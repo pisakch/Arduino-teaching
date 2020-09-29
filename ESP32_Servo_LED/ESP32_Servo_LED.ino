@@ -4,7 +4,7 @@
 *********/
 
 #include <WiFi.h>
-#include <Servo.h>
+#include <ESP32_Servo.h>
 
 Servo myservo;  // create servo object to control a servo
 // twelve servo objects can be created on most boards
